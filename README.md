@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishmittal_" target="blank"><img src="https://img.shields.io/twitter/follow/krishmittal_?logo=twitter&style=for-the-badge" alt="krishmittal_" /></a> </p>
 
-- 🔭 I’m currently working on **Quantum Machine Computing**
+- 🔭 I’m currently working on **Quantum Computing**
 
 - 🌱 I’m currently learning **Machine Learing in Quantum Computing, Flask**
 
