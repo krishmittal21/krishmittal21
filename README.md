@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/krishmittal_" target="blank"><img src="https://img.shields.io/twitter/follow/krishmittal_?logo=twitter&style=for-the-badge" alt="krishmittal_" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft Imagine Cup**
+- 🔭 I’m currently working on **Quantum Machine Computing**
 
-- 🌱 I’m currently learning **Oracle OCI, Azure**
+- 🌱 I’m currently learning **Machine Learing in Quantum Computing, Flask**
 
 - 👨‍💻 All of my projects are available at [krishmittal.me](krishmittal.me)
 
 - 💬 Ask me about **Quantum Computing**
 
-- 📫 How to reach me **krishmittal212005@gmail.com**
+- 📫 How to reach me **contact@krishmittal.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1t_RGrKz5V0mWJ0wzWueFE368S37o03K3Ni23_nwB0JQ/edit](https://docs.google.com/document/d/1t_RGrKz5V0mWJ0wzWueFE368S37o03K3Ni23_nwB0JQ/edit)
 
