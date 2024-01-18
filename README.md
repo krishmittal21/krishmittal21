@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krish Mittal</h1>
-<h3 align="center">A passionate Quantum Computing Researcher from India</h3>
+<h3 align="center">A passionate Software Developer and Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishmittal21&label=Profile%20views&color=0e75b6&style=flat" alt="krishmittal21" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [krishmittal.me](krishmittal.me)
+- 👨‍💻 All of my projects are available at [krishmittal.com](krishmittal.com)
 
 - 💬 Ask me about **Quantum Computing**
 
