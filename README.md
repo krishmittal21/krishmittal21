@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **contact@krishmittal.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1NiL2wx3cUewBdjeXutIx-hs7LoI_YZkNbJCdntKLtfM/edit?usp=sharing] [https://docs.google.com/document/d/1t_RGrKz5V0mWJ0wzWueFE368S37o03K3Ni23_nwB0JQ/edit](https://docs.google.com/document/d/1t_RGrKz5V0mWJ0wzWueFE368S37o03K3Ni23_nwB0JQ/edit)
+- 📄 Know about my experiences ( https://docs.google.com/document/d/1NiL2wx3cUewBdjeXutIx-hs7LoI_YZkNbJCdntKLtfM/edit?usp=sharing )
 
 - ⚡ Fun fact **I am the youngest in the world to write an educational book**
 
