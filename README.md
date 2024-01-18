@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Quantum Computing**
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [krishmittal.me](krishmittal.me)
 
