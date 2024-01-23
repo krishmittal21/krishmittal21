@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishmittal21&label=Profile%20views&color=0e75b6&style=flat" alt="krishmittal21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishmittal21" alt="krishmittal21" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/krishmittal_" target="blank"><img src="https://img.shields.io/twitter/follow/krishmittal_?logo=twitter&style=for-the-badge" alt="krishmittal_" /></a> </p>
 
-- 🔭 I’m currently working on **Quantum Computing**
+- 🔭 I’m currently working on **HairStyle Reccomendation iOS Application**
 
 - 🌱 I’m currently learning **Rust**
 
@@ -19,7 +17,7 @@
 
 - 📄 Know about my experiences ( https://docs.google.com/document/d/1NiL2wx3cUewBdjeXutIx-hs7LoI_YZkNbJCdntKLtfM/edit?usp=sharing )
 
-- ⚡ Fun fact **I am the youngest in the world to write an educational book**
+- ⚡ Fun fact **I have the world record of being the youngest in the world to write an Educational Book**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
