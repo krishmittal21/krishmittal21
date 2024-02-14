@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=typekrish&label=Profile%20views&color=0e75b6&style=flat" alt="krishmittal21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krishmittal_" target="blank"><img src="https://img.shields.io/twitter/follow/krishmittal_?logo=twitter&style=for-the-badge" alt="typekrish" /></a> </p>
+<p align="left"> <a href="https://twitter.com/typekrish" target="blank"><img src="https://img.shields.io/twitter/follow/typekrish?logo=twitter&style=for-the-badge" alt="typekrish" /></a> </p>
 
 - 🔭 I’m currently working on **HairStyle Reccomendation iOS Application**
 
