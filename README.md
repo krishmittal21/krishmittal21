@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **FriendsRai**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **iOS Developement**
 
 - 👨‍💻 All of my projects are available at [krishmittal.com](krishmittal.com)
 
