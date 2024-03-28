@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/typekrish" target="blank"><img src="https://img.shields.io/twitter/follow/typekrish?logo=twitter&style=for-the-badge" alt="typekrish" /></a> </p>
 
-- 🔭 I’m currently working on **FriendsRai**
+- 🔭 I’m currently working on **AiryAI**
 
 - 🌱 I’m currently learning **iOS Developement**
 
