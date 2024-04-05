@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/typekrish" target="blank"><img src="https://img.shields.io/twitter/follow/typekrish?logo=twitter&style=for-the-badge" alt="typekrish" /></a> </p>
 
-- 🔭 I’m currently working on **AiryAI**
+- 🔭 I’m currently working on **HouseRizz-iOS**
 
-- 🌱 I’m currently learning **iOS Developement**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [krishmittal.com](krishmittal.com)
 
